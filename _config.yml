@@ -1,3 +1,4 @@
-name: Your New Jekyll Site
+name: HumBike
 markdown: redcarpet
 pygments: true
+url: http://friedreiss.github.io/humbike
