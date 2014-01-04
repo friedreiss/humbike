@@ -1,9 +1,11 @@
 ---
 layout: post
 title: The Jump Trail
-date: 2013-12-23 10:56:19.000000000 -08:00
+date: {}
+published: true
 ---
-**.46 mi** - 
+
+**.47 mi** - 
 *Arcata Community Forest*
 
 ![The Jump Trail]({{ site.url }}/img/2013/Dec/PC212224_JPG-1.jpg)
